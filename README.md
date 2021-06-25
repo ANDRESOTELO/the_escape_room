@@ -1,5 +1,5 @@
 # The Escape Room
-Text-based gaming and learning through machine learning
+Text-based gaming and learning through machine learning.
 
 
 ## Authors
